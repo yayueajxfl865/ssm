@@ -65,6 +65,9 @@ public class EmployeeController {
 		return Msg.success();
 	}
 	
+	public void pull() {//测试方法
+		
+	}
 	
 	
 	/**

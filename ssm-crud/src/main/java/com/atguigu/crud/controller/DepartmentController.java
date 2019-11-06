@@ -32,5 +32,9 @@ public class DepartmentController {
 		List<Department> list = departmentService.getDepts();
 		return Msg.success().add("depts", list);
 	}
+	
+	public  void add() {
+		
+	}
 
 }
